@@ -1,2 +1,2 @@
 # hello-world
-Place to share thoughts, idesa, ect
+Place to share thoughts, ideas, ect
